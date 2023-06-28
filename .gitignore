@@ -12,7 +12,7 @@
 /cypress
 /errors/errors.json
 /errors/errors.xml
-/git-ignore-me.properties
+## /git-ignore-me.properties
 /highcharts.com.sublime-project
 /highcharts.com.sublime-workspace
 /highcharts.sublime-workspace
