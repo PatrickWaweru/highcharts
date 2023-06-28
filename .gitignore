@@ -7,7 +7,7 @@
 /api-docs
 /out
 /js
-/build
+## /build
 /code
 /cypress
 /errors/errors.json
